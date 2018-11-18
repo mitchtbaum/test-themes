@@ -1,2 +1,2 @@
-name = "theme2"
-parent = "theme1"
+name: "theme2"
+parent: "theme1"
