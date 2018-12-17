@@ -1,2 +1,3 @@
 name: "theme2"
-parent: "theme1"
+parent:
+  - "theme1"
